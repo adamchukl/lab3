@@ -1,0 +1,15 @@
+#storyImage {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+body{
+  font-family: Arial, sans-serif;
+  text-align: center;
+  line-height: 1.6;
+  color: #310e50;
+  padding: 40px;
+}
